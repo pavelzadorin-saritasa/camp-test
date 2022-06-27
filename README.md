@@ -1,5 +1,7 @@
 # saritasa-frontend-boilerplate-camp
 
+test
+
 Monorepo with Angular, React, Vanilla TS boilerplates for JS camp. Created with [Nx](https://nx.dev/). Update project name and description, when you start working on your own project.
 
 ## Installation
