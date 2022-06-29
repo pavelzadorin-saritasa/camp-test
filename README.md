@@ -2,6 +2,10 @@
 
 Monorepo with Angular, React, Vanilla TS boilerplates for JS camp. Created with [Nx](https://nx.dev/). Update project name and description, when you start working on your own project.
 
+test
+
+test 2
+
 ## Installation
 
 `npm install` to install all required dependencies.
